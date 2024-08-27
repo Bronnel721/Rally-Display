@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1724764857
+ModificationTime: 1724765880
 PfmFamily: 81
 TTFWeight: 800
 TTFWidth: 5
@@ -41,7 +41,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
+OS2Vendor: 'ZAM '
 Lookup: 1 0 0 "'ss16' Style Set 16 lookup 26" { "'ss16' Style Set 16 lookup 26-1" ("ss16") } ['ss16' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'init' Initial Forms lookup 24" { "'init' Initial Forms lookup 24-1" ("init") } ['init' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'fina' Terminal Forms lookup 25" { "'fina' Terminal Forms lookup 25-1" ("fina") } ['fina' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -87,7 +87,7 @@ ChainSub2: coverage "'frac' Diagonal Fractions in Latin lookup 27 contextual 0" 
  1
   SeqLookup: 0 "Single Substitution lookup 6"
 EndFPST
-LangName: 1033 "" "" "" "" "" "" "" "" "Marco Mahone" "Marco Mahone" "Rally Display is a fun semi-serif headline font. This font was actually based off of an older font I made in Inkscape called +ACIA-Bronnel Display+ACIA because It was first drawn with the +ACIA-word+ACIA Bronnel. You can't download Bronnel Display, though, but I think this font is better anyways. Rally Display's goofiness is best used for text that should stand out and is not used for long body copy. This font suits being used for stuff like cartoons, kid's media, logos, and other fun things. This was the last font I've made in 2023.+AAoACgAA-Fun fact: This font is called +ACIA-Rally Display+ACIA because its design sort of reminded me of the Rally's logo for some reason." "https://fontforge.org/en-US/" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "Marco Mahone" "Marco Mahone" "Rally Display is a fun semi-serif headline font. This font was actually based off of an older font I made in Inkscape called +ACIA-Bronnel Display+ACIA because It was first drawn with the +ACIA-word+ACIA Bronnel. You can't download Bronnel Display, though, but I think this font is better anyways. Rally Display's goofiness is best used for text that should stand out and is not used for long body copy. This font suits being used for stuff like cartoons, kid's media, logos, and other fun things. This was the last font I've made in 2023.+AAoACgAA-Fun fact: This font is called +ACIA-Rally Display+ACIA because its design sort of reminded me of the Rally's logo for some reason." "https://github.com/Bronnel721" "https://github.com/Bronnel721" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -1498,10 +1498,9 @@ SplineSet
  128.151367188 560.083984375 l 1
  10 558.080078125 l 1
  13.6201171875 731.010742188 l 1
- 334.729492188 731.010742188 l 1
+ 334.729492188 731.01 l 1
  339.064795055 171.292732541 l 1
 EndSplineSet
-Validated: 1048577
 Kerns2: 0 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 3 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 8 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 14 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 17 10 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 32 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 37 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 38 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 43 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 44 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 45 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 46 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 47 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 49 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 50 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 53 -108 "'kern' Horizontal Kerning in Latin lookup 0-1" 54 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 55 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 56 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 57 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 58 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 59 -58 "'kern' Horizontal Kerning in Latin lookup 0-1" 60 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 61 -150 "'kern' Horizontal Kerning in Latin lookup 0-1" 62 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 63 -200 "'kern' Horizontal Kerning in Latin lookup 0-1" 64 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 66 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 68 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 69 -230 "'kern' Horizontal Kerning in Latin lookup 0-1" 70 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 129 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 131 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 134 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 613 -68 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -5136,7 +5135,6 @@ SplineSet
  443 515 l 13
 EndSplineSet
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: lslash
@@ -7645,7 +7643,6 @@ LayerCount: 2
 Fore
 Refer: 208 769 N 1 0 0 1 113 237.008 2
 Refer: 44 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: lacute
@@ -8287,7 +8284,6 @@ LayerCount: 2
 Fore
 Refer: 363 806 N 1 0 0 1 239 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni013C
@@ -8763,7 +8759,6 @@ SplineSet
  637 728.9921875 l 5
 EndSplineSet
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: lcaron
@@ -8796,7 +8791,6 @@ LayerCount: 2
 Fore
 Refer: 115 183 S 1 0 0 1 360 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 1
 Kerns2: 44 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 406 -68 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -9023,13 +9017,12 @@ EndChar
 StartChar: uni01C7
 Encoding: 455 455 424
 Width: 990
-HStem: 0 171.293<339.065 606.539> 560.084 170.927<13.6201 128.151 633.62 748.151>
+HStem: 0 171.293<339.065 606.539> 560.084 170.927<13.6201 128.151> 560.084 170.927<633.62 748.151>
 VStem: 123.43 215.635<171.293 560.084> 743.83 216.329<70 560.084>
 LayerCount: 2
 Fore
 Refer: 46 74 N 1 0 0 1 620 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C8
@@ -9042,7 +9035,6 @@ LayerCount: 2
 Fore
 Refer: 31 106 S 1 0 0 1 590 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C9
@@ -11409,7 +11401,6 @@ LayerCount: 2
 Fore
 Refer: 538 803 N 1 0 0 1 285 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
-Validated: 1048577
 EndChar
 
 StartChar: uni1E37
@@ -12306,7 +12297,6 @@ LayerCount: 2
 Fore
 Refer: 614 817 N 1 0 0 1 218 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E3B
