@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1724765880
+ModificationTime: 1724767602
 PfmFamily: 81
 TTFWeight: 800
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'ZAM '
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 27" { "'onum' Oldstyle Figures lookup 27-1" ("osf") } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss16' Style Set 16 lookup 26" { "'ss16' Style Set 16 lookup 26-1" ("ss16") } ['ss16' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'init' Initial Forms lookup 24" { "'init' Initial Forms lookup 24-1" ("init") } ['init' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'fina' Terminal Forms lookup 25" { "'fina' Terminal Forms lookup 25-1" ("fina") } ['fina' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -94,7 +95,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 65367 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -121,7 +122,7 @@ Grid
   Named: "Cap Height"
 EndSplineSet
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-2"""  "Anchor-0""" 
-BeginChars: 65588 787
+BeginChars: 65598 797
 
 StartChar: i
 Encoding: 105 105 0
@@ -206,11 +207,11 @@ SplineSet
  333.114257812 154.858398438 365.625 191.802734375 365.625 249.858398438 c 4
  365.625 306.172851562 333.114257812 342.008789062 282.025390625 342.008789062 c 4
  231.516601562 342.008789062 199.375 306.172851562 199.375 249.858398438 c 4
-20 249.93359375 m 0
+20 249.93359375 m 4
  20 406.989257812 121.888778271 506.93359375 282 506.93359375 c 4
  442.722554052 506.93359375 545 406.989257812 545 249.93359375 c 4
  545 91.0439453125 442.722554052 -10.06640625 282 -10.06640625 c 4
- 121.888778271 -10.06640625 20 91.0439453125 20 249.93359375 c 0
+ 121.888778271 -10.06640625 20 91.0439453125 20 249.93359375 c 4
 EndSplineSet
 Validated: 524289
 Kerns2: 0 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 8 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 11 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 15 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 16 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 20 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 21 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 29 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 36 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 37 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 39 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 40 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 61 -133 "'kern' Horizontal Kerning in Latin lookup 0-1" 69 -218 "'kern' Horizontal Kerning in Latin lookup 0-1" 82 -60 "'kern' Horizontal Kerning in Latin lookup 0-1" 132 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 407 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 750 -68 "'kern' Horizontal Kerning in Latin lookup 0-1"
@@ -897,6 +898,7 @@ SplineSet
  396 421 l 1
 EndSplineSet
 Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" three.osf
 Substitution2: "'ss01' Style Set 1 lookup 9-1" three.ss01
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" three.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" three.dnom
@@ -936,6 +938,7 @@ SplineSet
 EndSplineSet
 Validated: 524293
 Kerns2: 32 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 73 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 118 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" eight.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" eight.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" eight.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" eight.numr
@@ -1140,6 +1143,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 79 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 -5 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" one.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" one.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" one.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" one.numr
@@ -1169,6 +1173,7 @@ SplineSet
 EndSplineSet
 Validated: 524289
 Kerns2: 32 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" zero.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" zero.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" zero.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" zero.numr
@@ -1404,6 +1409,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 32 -50 "'kern' Horizontal Kerning in Latin lookup 0-1" 73 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 118 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" six.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" six.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" six.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" six.numr
@@ -1501,6 +1507,7 @@ SplineSet
  334.729492188 731.01 l 1
  339.064795055 171.292732541 l 1
 EndSplineSet
+Validated: 1572865
 Kerns2: 0 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 3 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 8 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 14 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 17 10 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 32 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 37 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 38 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 43 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 44 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 45 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 46 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 47 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 49 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 50 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 53 -108 "'kern' Horizontal Kerning in Latin lookup 0-1" 54 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 55 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 56 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 57 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 58 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 59 -58 "'kern' Horizontal Kerning in Latin lookup 0-1" 60 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 61 -150 "'kern' Horizontal Kerning in Latin lookup 0-1" 62 -220 "'kern' Horizontal Kerning in Latin lookup 0-1" 63 -200 "'kern' Horizontal Kerning in Latin lookup 0-1" 64 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 66 -88 "'kern' Horizontal Kerning in Latin lookup 0-1" 68 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 69 -230 "'kern' Horizontal Kerning in Latin lookup 0-1" 70 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 129 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 131 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 134 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 613 -68 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -2288,6 +2295,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 32 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" five.osf
 Substitution2: "'ss02' Style Set 2 lookup 10-1" five.ss02
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" five.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" five.dnom
@@ -2440,6 +2448,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 32 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" nine.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" nine.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" nine.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" nine.numr
@@ -2611,6 +2620,7 @@ SplineSet
 EndSplineSet
 Validated: 524289
 Kerns2: 32 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" two.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" two.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" two.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" two.numr
@@ -2675,6 +2685,7 @@ SplineSet
 EndSplineSet
 Validated: 5
 Kerns2: 32 -110 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 118 -50 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" four.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" four.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" four.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" four.numr
@@ -2703,6 +2714,7 @@ SplineSet
 EndSplineSet
 Validated: 524289
 Kerns2: 32 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 41 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 77 -10 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 30 "'kern' Horizontal Kerning in Latin lookup 0-1" 118 20 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'onum' Oldstyle Figures lookup 27-1" seven.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" seven.numr
 Substitution2: "'dnom' Denominators lookup 0 subtable" seven.dnom
 Substitution2: "'numr' Numerators lookup 0 subtable" seven.numr
@@ -3924,6 +3936,7 @@ SplineSet
  23.12109375 456.36328125 l 1
  139.086914062 568.0859375 l 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: divide
@@ -5135,6 +5148,7 @@ SplineSet
  443 515 l 13
 EndSplineSet
 Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 524293
 EndChar
 
 StartChar: lslash
@@ -7643,6 +7657,7 @@ LayerCount: 2
 Fore
 Refer: 208 769 N 1 0 0 1 113 237.008 2
 Refer: 44 76 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: lacute
@@ -8284,6 +8299,7 @@ LayerCount: 2
 Fore
 Refer: 363 806 N 1 0 0 1 239 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni013C
@@ -8759,6 +8775,7 @@ SplineSet
  637 728.9921875 l 5
 EndSplineSet
 Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 524289
 EndChar
 
 StartChar: lcaron
@@ -8791,6 +8808,7 @@ LayerCount: 2
 Fore
 Refer: 115 183 S 1 0 0 1 360 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 1
 Kerns2: 44 -68 "'kern' Horizontal Kerning in Latin lookup 0-1" 406 -68 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
@@ -9023,6 +9041,7 @@ LayerCount: 2
 Fore
 Refer: 46 74 N 1 0 0 1 620 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni01C8
@@ -9035,6 +9054,7 @@ LayerCount: 2
 Fore
 Refer: 31 106 S 1 0 0 1 590 0 2
 Refer: 44 76 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni01C9
@@ -11401,6 +11421,7 @@ LayerCount: 2
 Fore
 Refer: 538 803 N 1 0 0 1 285 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
+Validated: 1048577
 EndChar
 
 StartChar: uni1E37
@@ -12297,6 +12318,7 @@ LayerCount: 2
 Fore
 Refer: 614 817 N 1 0 0 1 218 -21 2
 Refer: 44 76 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1E3B
@@ -15139,6 +15161,249 @@ LayerCount: 2
 Fore
 Refer: 785 -1 N -1 0 0 -1 256.178 497 2
 Validated: 1
+EndChar
+
+StartChar: zero.osf
+Encoding: 65588 -1 787
+Width: 565
+Flags: W
+HStem: -10.0664 164.925<230.843 333.593> 362.009 164.925<230.843 333.593>
+VStem: 20 183.375<185.226 333.123> 361.625 183.375<185.226 333.123>
+LayerCount: 2
+Fore
+SplineSet
+203.375 259.858398438 m 0
+ 203.375 195.691611842 233.961056509 154.858398438 282.025390625 154.858398438 c 0
+ 330.669802984 154.858398438 361.625 195.691611842 361.625 259.858398438 c 4
+ 361.625 322.283997998 330.669802984 362.008789062 282.025390625 362.008789062 c 0
+ 233.961056509 362.008789062 203.375 322.283997998 203.375 259.858398438 c 0
+20 259.93359375 m 0
+ 20 423.100373145 121.888778271 526.93359375 282 526.93359375 c 0
+ 442.722554052 526.93359375 545 423.100373145 545 259.93359375 c 0
+ 545 94.932804988 442.722554052 -10.06640625 282 -10.06640625 c 0
+ 121.888778271 -10.06640625 20 94.932804988 20 259.93359375 c 0
+EndSplineSet
+EndChar
+
+StartChar: one.osf
+Encoding: 65589 -1 788
+Width: 351
+Flags: W
+HStem: 0 21G<104.958 321.287> 346.084 170.927<14.748 109.279>
+VStem: 104.958 216.329<0 346.084>
+LayerCount: 2
+Fore
+SplineSet
+315.857421875 517.010742188 m 5
+ 321.287109375 0 l 5
+ 104.958007812 0 l 5
+ 109.279296875 346.083984375 l 5
+ 11.1279296875 344.080078125 l 1
+ 14.748046875 517.010742188 l 1
+ 315.857421875 517.010742188 l 5
+EndSplineSet
+EndChar
+
+StartChar: two.osf
+Encoding: 65590 -1 789
+Width: 535
+Flags: W
+HStem: 0 166<342.152 505> 358.934 168<141.445 345.792>
+VStem: 279.364 215.6<270.934 353.244>
+LayerCount: 2
+Fore
+SplineSet
+342.15234375 166 m 5
+ 515 172 l 1
+ 505 0 l 1
+ 29.9833984375 0 l 1
+ 19.9833984375 130 l 1
+ 19.9833984375 130 279.364257812 216.955364478 279.364257812 316.93359375 c 0
+ 279.364257812 345.200597426 262.452586196 358.93359375 233.955078125 358.93359375 c 0
+ 141.628936795 358.93359375 86.4638671875 299.93359375 86.4638671875 299.93359375 c 1
+ 16.5634765625 450.93359375 l 1
+ 16.5634765625 450.93359375 111.962992259 526.93359375 272.03125 526.93359375 c 0
+ 416.113951101 526.93359375 494.963867188 457.396425801 494.963867188 346.8671875 c 0
+ 494.963867188 222.750411236 342.15234375 166 342.15234375 166 c 5
+EndSplineSet
+EndChar
+
+StartChar: three.osf
+Encoding: 65591 -1 790
+Width: 528
+Flags: W
+HStem: -183.994 172<46 216.837> 328.011 189<20 250.848>
+VStem: 282.917 224<29.1453 104.303>
+LayerCount: 2
+Fore
+SplineSet
+343 237.002929688 m 1
+ 343 237.002929688 506.916992188 220.39325678 506.916992188 62.9951171875 c 0
+ 506.916992188 -80.5152004978 391.511473068 -183.040496168 46 -183.994140625 c 1
+ 24 -11.994140625 l 1
+ 229.85561661 -10.9738201984 282.916992188 22.5730287941 282.916992188 68.9951171875 c 0
+ 282.916992188 95.6489633413 261.079050164 113.995117188 217.916992188 113.995117188 c 0
+ 162 113.995117188 132.2578125 104.436523438 132.2578125 104.436523438 c 1
+ 106 218.002929688 l 1
+ 250.84765625 334.010742188 l 1
+ 10 328.010742188 l 1
+ 20 517.010742188 l 1
+ 476.016601562 517.010742188 l 1
+ 486.016601562 359.010742188 l 1
+ 343 237.002929688 l 1
+EndSplineSet
+EndChar
+
+StartChar: four.osf
+Encoding: 65592 -1 791
+Width: 659
+Flags: W
+HStem: -7.44043 173.28<232.72 629.76> 0 160.96<232.72 595.486>
+LayerCount: 2
+Fore
+SplineSet
+524.899414062 381.6640625 m 1x00
+ 530.329101562 -173.994140625 l 1
+ 337 -173.994140625 l 5
+ 343.169921875 381.6640625 l 5
+ 524.899414062 381.6640625 l 1x00
+258.559570312 537.010742188 m 1
+ 420.759765625 439.130859375 l 1
+ 232.719726562 160.959960938 l 1x40
+ 635.639648438 165.83984375 l 1
+ 629.759765625 -7.4404296875 l 1x80
+ 50.759765625 0 l 1x40
+ 13.5595703125 126.240234375 l 1
+ 258.559570312 537.010742188 l 1
+EndSplineSet
+EndChar
+
+StartChar: five.osf
+Encoding: 65593 -1 792
+Width: 533
+Flags: W
+HStem: -183.994 172<66 231.278> 336.003 181.008<230 470.017>
+VStem: 287.917 224<27.3207 111.052>
+LayerCount: 2
+Fore
+SplineSet
+511.916992188 72 m 0
+ 511.916992188 -90.5152004978 400.267209603 -183.005727626 66 -183.994140625 c 1
+ 44 -11.994140625 l 1
+ 237.929654459 -10.9738201984 287.916992188 22.5730287941 287.916992188 68.9951171875 c 0
+ 287.916992188 102.606228299 265.248876953 123.995117188 220.916992188 123.995117188 c 0
+ 167.449997257 123.995117188 135.2578125 94.4365234375 135.2578125 94.4365234375 c 1
+ 19 178.002929688 l 1
+ 80 517.010742188 l 1
+ 470.016601562 517.010742188 l 5
+ 480.016601562 335.010742188 l 5
+ 230 336.002929688 l 5
+ 215 267.002929688 l 5
+ 215 267.002929688 236.696428572 275.002929688 296 275.002929688 c 0
+ 452.212140903 275.002929688 511.916992188 190.600844471 511.916992188 72 c 0
+EndSplineSet
+EndChar
+
+StartChar: six.osf
+Encoding: 65594 -1 793
+Width: 619
+Flags: W
+HStem: -10 171.858<260.114 371.606> 346.009 149.718<258.723 444.291> 592.543 182.459<402.469 499.219>
+VStem: 20 213.375<190.301 428.325> 399.625 199.691<190.03 318.448>
+LayerCount: 2
+Fore
+SplineSet
+498.310546875 775.001953125 m 1
+ 522 592.54296875 l 1
+ 261.015683787 566.660153707 251.458007812 473.932617188 251.458007812 473.932617188 c 1
+ 251.458007812 473.932617188 284.626883182 495.7265625 374.600585938 495.7265625 c 0
+ 513.98073582 495.7265625 599.31640625 402.013069132 599.31640625 260.249023438 c 4
+ 599.31640625 107.31005508 520.52726296 -10 316.310546875 -10 c 0
+ 138.863937848 -10 20 85.3138872312 20 316.348632812 c 0
+ 20 536.832372804 134.575531105 753.731051556 498.310546875 775.001953125 c 1
+233.375 254.858398438 m 4
+ 233.375 198.024491743 265.516601562 161.858398438 316.025390625 161.858398438 c 0
+ 367.114257812 161.858398438 399.625 198.024491743 399.625 254.858398438 c 4
+ 399.625 310.561414931 367.114257812 346.008789062 316.025390625 346.008789062 c 0
+ 265.516601562 346.008789062 233.375 310.561414931 233.375 254.858398438 c 4
+EndSplineSet
+EndChar
+
+StartChar: seven.osf
+Encoding: 65595 -1 794
+Width: 548
+Flags: W
+HStem: 330.716 186.295<200 323.848>
+LayerCount: 2
+Fore
+SplineSet
+7 245.010742188 m 1
+ 35 517.010742188 l 1
+ 507.016601562 517.010742188 l 1
+ 557.016601562 389.010742188 l 1
+ 316 -187.994140625 l 5
+ 111 -123.994140625 l 5
+ 323.84765625 332.010742188 l 1
+ 200 330.715820312 l 1
+ 186 227.002929688 l 1
+ 7 245.010742188 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight.osf
+Encoding: 65596 -1 795
+Width: 608
+Flags: W
+HStem: -10.0078 168.739<240.991 356.292> 609.666 165.336<256.794 358.083>
+VStem: 20 198.311<179.086 294.536> 46.6787 196.121<507.031 596.009> 374.693 214.235<175.529 272.259> 376.223 183.935<483.931 592.202>
+LayerCount: 2
+Fore
+SplineSet
+299.500976562 158.731445312 m 0xe8
+ 346.12895474 158.731445312 374.693359375 183.17907659 374.693359375 223.086914062 c 0xe8
+ 374.693359375 265.433963508 347.956095274 285.872160543 264.751953125 321.103515625 c 4
+ 121.090326073 381.934547153 46.6787109375 444.591970472 46.6787109375 559 c 0
+ 46.6787109375 691.038374893 148.472772262 775.001953125 308.55078125 775.001953125 c 0
+ 462.738371775 775.001953125 560.157226562 700.682653935 560.157226562 566.611328125 c 0
+ 560.157226562 429.512590635 414.053710938 379 414.053710938 379 c 5
+ 295.579101562 433.384765625 l 5
+ 295.579101562 433.384765625 376.22265625 477.116736668 376.22265625 535.682617188 c 0
+ 376.22265625 581.689847053 350.435546875 609.666015625 308.02734375 609.666015625 c 0
+ 267.799804688 609.666015625 242.799804688 586.607737945 242.799804688 549.504882812 c 0xd4
+ 242.799804688 513.765471443 262.500194575 497.668587642 333.245117188 473.96484375 c 4
+ 517.597269677 412.195941513 588.928710938 352.109043758 588.928710938 221.379882812 c 0
+ 588.928710938 77.1437365967 482.219824711 -10.0078125 305.616210938 -10.0078125 c 0
+ 134.082920797 -10.0078125 20 74.9863448454 20 202.782226562 c 0
+ 20 349.077882267 158.459960938 396.984375 158.459960938 396.984375 c 5
+ 282.620117188 335.284179688 l 5
+ 282.620117188 335.284179688 218.310546875 301.349813248 218.310546875 228.194335938 c 0
+ 218.310546875 186.13073685 250.335707836 158.731445312 299.500976562 158.731445312 c 0xe8
+EndSplineSet
+EndChar
+
+StartChar: nine.osf
+Encoding: 65597 -1 796
+Width: 609
+Flags: W
+HStem: -203.994 172.459<130.044 222.84> 51.207 139.718<173.157 354.706> 355.075 171.858<243.536 353.367>
+VStem: 20 199.691<213.793 332.753> 375.941 213.375<114.692 330.993>
+LayerCount: 2
+Fore
+SplineSet
+131.005859375 -203.994140625 m 5
+ 107.31640625 -31.53515625 l 5
+ 349.007280132 -8.72357736781 357.858398438 73.0009765625 357.858398438 73.0009765625 c 1
+ 357.858398438 73.0009765625 327.383057333 51.20703125 244.715820312 51.20703125 c 0
+ 105.33567043 51.20703125 20 136.961082394 20 266.684570312 c 0
+ 20 413.964351954 97.397137777 526.93359375 298.005859375 526.93359375 c 0
+ 472.458200886 526.93359375 589.31640625 437.4609375 589.31640625 220.584960938 c 0
+ 589.31640625 16.4813731317 479.531717908 -184.303494384 131.005859375 -203.994140625 c 5
+375.94140625 272.075195312 m 0
+ 375.94140625 322.797929244 345.744236004 355.075195312 298.291015625 355.075195312 c 0
+ 250.257716973 355.075195312 219.69140625 322.797929244 219.69140625 272.075195312 c 0
+ 219.69140625 222.48328993 250.257716973 190.924804688 298.291015625 190.924804688 c 0
+ 345.744236004 190.924804688 375.94140625 222.48328993 375.94140625 272.075195312 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
