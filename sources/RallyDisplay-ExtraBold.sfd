@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1726320921
+ModificationTime: 1726321208
 PfmFamily: 81
 TTFWeight: 800
 TTFWidth: 5
@@ -3408,52 +3408,52 @@ EndChar
 
 StartChar: guillemotleft
 Encoding: 171 171 107
-Width: 672
+Width: 632
 Flags: W
+HStem: 491 20G<231.568 278.666>
 LayerCount: 2
 Fore
 SplineSet
-515.720703125 349.5 m 5
- 671.69921875 199 l 5
- 571.69921875 90 l 5
- 311 340 l 5
- 571.69921875 599 l 5
- 671.69921875 510 l 5
- 515.720703125 349.5 l 5
-215.720703125 341.5 m 1
- 411.69921875 151 l 1
- 291.69921875 42 l 1
- -9 332 l 1
- 291.69921875 631 l 1
- 411.69921875 542 l 1
- 215.720703125 341.5 l 1
+515.720703125 269.5 m 1
+ 631.69921875 159 l 5
+ 531.69921875 50 l 5
+ 311 260 l 1
+ 531.69921875 479 l 5
+ 631.69921875 390 l 5
+ 515.720703125 269.5 l 1
+215.720703125 261.5 m 1
+ 371.69921875 111 l 5
+ 251.69921875 2 l 5
+ -9 252 l 1
+ 251.69921875 511 l 5
+ 371.69921875 422 l 5
+ 215.720703125 261.5 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: guillemotright
 Encoding: 187 187 108
-Width: 672
+Width: 632
 Flags: W
+HStem: 491 20G<357.982 400.856>
 LayerCount: 2
 Fore
 SplineSet
-155.978515625 323.5 m 5
- 0 474 l 5
- 100 583 l 5
- 360.69921875 333 l 5
- 100 74 l 5
- 0 163 l 5
- 155.978515625 323.5 l 5
-455.978515625 331.5 m 1
- 260 522 l 1
- 380 631 l 1
- 680.69921875 341 l 1
- 380 42 l 1
- 260 131 l 1
- 455.978515625 331.5 l 1
+115.978515625 243.5 m 5
+ 0 354 l 1
+ 100 463 l 1
+ 320.69921875 253 l 5
+ 100 34 l 1
+ 0 123 l 1
+ 115.978515625 243.5 l 5
+415.978515625 251.5 m 5
+ 260 402 l 1
+ 380 511 l 1
+ 640.69921875 261 l 5
+ 380 2 l 1
+ 260 91 l 1
+ 415.978515625 251.5 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: logicalnot
@@ -10296,38 +10296,38 @@ EndChar
 
 StartChar: guilsinglleft
 Encoding: 8249 8249 511
-Width: 412
+Width: 372
 Flags: W
+HStem: 491 20G<231.568 278.666>
 LayerCount: 2
 Fore
 SplineSet
-215.720703125 341.5 m 1
- 411.69921875 151 l 1
- 291.69921875 42 l 1
- -9 332 l 1
- 291.69921875 631 l 1
- 411.69921875 542 l 1
- 215.720703125 341.5 l 1
+215.720703125 261.5 m 1
+ 371.69921875 111 l 5
+ 251.69921875 2 l 5
+ -9 252 l 1
+ 251.69921875 511 l 1
+ 371.69921875 422 l 1
+ 215.720703125 261.5 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: guilsinglright
 Encoding: 8250 8250 512
-Width: 413
+Width: 373
 Flags: W
+HStem: 491 20G<98.9817 141.856>
 LayerCount: 2
 Fore
 SplineSet
-196.978515625 331.5 m 1
- 1 522 l 1
- 121 631 l 1
- 421.69921875 341 l 1
- 121 42 l 1
- 1 131 l 1
- 196.978515625 331.5 l 1
+156.978515625 251.5 m 1
+ 1 402 l 1
+ 121 511 l 1
+ 381.69921875 261 l 1
+ 121 2 l 1
+ 1 91 l 5
+ 156.978515625 251.5 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dagger
