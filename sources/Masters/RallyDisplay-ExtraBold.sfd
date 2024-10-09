@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1728439422
+ModificationTime: 1728442110
 PfmFamily: 81
 TTFWeight: 800
 TTFWidth: 5
@@ -1122,22 +1122,21 @@ EndChar
 
 StartChar: one
 Encoding: 17 49 32
-Width: 371
+Width: 369
 Flags: W
-HStem: 0 21G<124.958 341.287> 560.084 170.927<14.748 129.279>
-VStem: 124.958 216.329<0 560.084>
+HStem: 0 21G<123.83 340.159> 560.084 170.927<13.6201 128.151>
+VStem: 123.83 216.329<0 560.084>
 LayerCount: 2
 Fore
 SplineSet
-335.857421875 731.010742188 m 1
- 341.287109375 0 l 1
- 124.958007812 0 l 1
- 129.279296875 560.083984375 l 5
- 11.1279296875 558.080078125 l 5
- 14.748046875 731.010742188 l 5
- 335.857421875 731.010742188 l 1
+334.729492188 731.010742188 m 1
+ 340.159179688 0 l 1
+ 123.830078125 0 l 1
+ 128.151367188 560.083984375 l 5
+ 10 558.080078125 l 5
+ 13.6201171875 731.010742188 l 5
+ 334.729492188 731.010742188 l 1
 EndSplineSet
-Validated: 1
 Kerns2: 79 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 80 -5 "'kern' Horizontal Kerning in Latin lookup 0-1"
 Substitution2: "'onum' Oldstyle Figures lookup 27-1" one.osf
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 26 subtable" one.numr
