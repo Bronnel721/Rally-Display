@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1730641694
+ModificationTime: 1730643538
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -98,7 +98,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 567 27 9
+WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3878,7 +3878,7 @@ StartChar: Eth
 Encoding: 142 208 125
 Width: 783
 Flags: W
-HStem: -10.0664 120<289.079 495.057> 295 112<186.909 458> 306 97<34 303.091> 614.992 24.2578<184.77 285.67> 614.992 124<286.087 494.633>
+HStem: -10.0664 120<289.079 495.057> 295 112<196.909 468> 306 97<44 313.091> 614.992 24.2578<184.77 285.67> 614.992 124<286.087 494.633>
 VStem: 163.94 121.729<118.847 639.25> 626.917 127<241.934 482.995>
 AnchorPoint: "Anchor-0" 386 731.008 basechar 0
 AnchorPoint: "Anchor-2" 399 0 basechar 0
@@ -3886,14 +3886,13 @@ AnchorPoint: "Anchor-2" 399 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-34 403 m 1xa6
- 460 407 l 5
- 458 295 l 5xc6
- 32 306 l 1
- 34 403 l 1xa6
+44 403 m 5xa6
+ 470 407 l 5
+ 468 295 l 5xc6
+ 42 306 l 5
+ 44 403 l 5xa6
 EndSplineSet
 Refer: 57 68 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: eth
@@ -6978,7 +6977,7 @@ StartChar: Dcroat
 Encoding: 206 272 270
 Width: 783
 Flags: W
-HStem: -10.0664 120<289.079 495.057> 295 112<186.909 458> 306 97<34 303.091> 614.992 24.2578<184.77 285.67> 614.992 124<286.087 494.633>
+HStem: -10.0664 120<289.079 495.057> 295 112<196.909 468> 306 97<44 313.091> 614.992 24.2578<184.77 285.67> 614.992 124<286.087 494.633>
 VStem: 163.94 121.729<118.847 639.25> 626.917 127<241.934 482.995>
 AnchorPoint: "Anchor-0" 386 731.008 basechar 0
 AnchorPoint: "Anchor-2" 399 0 basechar 0
@@ -6986,7 +6985,6 @@ AnchorPoint: "Anchor-2" 399 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 125 208 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: dcroat
