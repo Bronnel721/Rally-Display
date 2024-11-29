@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1732897544
+ModificationTime: 1732897801
 PfmFamily: 81
 TTFWeight: 100
 TTFWidth: 5
@@ -125,7 +125,7 @@ Grid
   Named: "Cap Height"
 EndSplineSet
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0-1" "Anchor-2"""  "Anchor-0""" 
-BeginChars: 805 804
+BeginChars: 804 804
 
 StartChar: i
 Encoding: 73 105 0
@@ -10691,14 +10691,14 @@ VStem: 76 3<208 546> 617 96.8096<357.605 534.173> 617 52<346 375.428 424.584 606
 LayerCount: 2
 Fore
 SplineSet
-618 606 m 5xb9
+618 606 m 1xb9
  662 606 l 1xb9
  669 346 l 1
  617 346 l 1xba
- 618 606 l 5xb9
+ 618 606 l 1xb9
 76 546 m 1
  134 626 l 1
- 141 118 l 1
+ 137 119 l 5
  69 208 l 1
  76 546 l 1
 30 361.93359375 m 0
