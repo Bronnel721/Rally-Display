@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1732911167
+ModificationTime: 1732987589
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'ZAM '
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 31" { "'case' Case-Sensitive Forms lookup 31-1" ("case") } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'subs' Subscript lookup 0" { "'subs' Subscript lookup 0 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 27" { "'onum' Oldstyle Figures lookup 27-1" ("osf") } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss16' Style Set 16 lookup 26" { "'ss16' Style Set 16 lookup 26-1" ("ss16") } ['ss16' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -98,7 +99,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 27 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2315,6 +2316,7 @@ SplineSet
  818.250976562 -84.2255859375 l 1
  818.250976562 -84.2255859375 708.095703125 -159.7265625 482.713867188 -159.7265625 c 0
 EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 31-1" at.case
 EndChar
 
 StartChar: percent
@@ -13880,8 +13882,8 @@ SplineSet
 287.229492188 731.010742188 m 1
  292.659179688 187.001953125 l 1
  117.5 -29.9987792969 l 1
- 117.5 -29.9987792969 34.25 30.8762207031 34.25 30.8762207031 c 1
- 34.25 30.8762207031 186.330078125 209.501220703 186.330078125 209.501220703 c 1
+ 34.25 30.8762207031 l 1
+ 186.330078125 209.501220703 l 1
  190.651367188 642.583984375 l 1
  37.5 640.580078125 l 1
  41.1201171875 731.010742188 l 1

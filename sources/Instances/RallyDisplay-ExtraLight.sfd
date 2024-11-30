@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1732898329
+ModificationTime: 1732987603
 PfmFamily: 81
 TTFWeight: 200
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'ZAM '
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 31" { "'case' Case-Sensitive Forms lookup 31-1" ("case") } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'subs' Subscript lookup 0" { "'subs' Subscript lookup 0 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 27" { "'onum' Oldstyle Figures lookup 27-1" ("osf") } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss16' Style Set 16 lookup 26" { "'ss16' Style Set 16 lookup 26-1" ("ss16") } ['ss16' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -98,7 +99,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 27 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1230,8 +1231,8 @@ SplineSet
  28.1097064375 440.797792 l 1
  23.82976 497 l 1
  175.727771 511 l 1
- 175.727771 511 326.522297438 60.1967485 326.522297438 60.1967485 c 1
- 326.522297438 60.1967485 496.329768875 511 496.329768875 511 c 1
+ 326.522297438 60.1967485 l 1
+ 496.329768875 511 l 1
  558.620435312 490.82976 l 1
  366.947901875 0 l 1
 EndSplineSet
@@ -2314,6 +2315,7 @@ SplineSet
  818.250976562 -84.2255859375 l 1
  818.250976562 -84.2255859375 708.095703125 -159.7265625 482.713867188 -159.7265625 c 0
 EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 31-1" at.case
 EndChar
 
 StartChar: percent
@@ -4536,7 +4538,7 @@ LayerCount: 2
 Fore
 SplineSet
 140.9175 -296.76625 m 1
- 140.9175 -296.76625 362.64125 -292.76625 362.64125 -292.76625 c 1
+ 362.64125 -292.76625 l 1
  359.64125 -350 l 1
  38.51375 -350 l 1
  33.6475 -308.46625 l 1
@@ -9860,7 +9862,7 @@ Encoding: 640 8224 513
 Width: 520
 Flags: W
 HStem: 449.934 63.5<33 69.6448 447.325 487> 452.845 52.5244<62.0385 427.818>
-VStem: 224 68.3291<nan 788.992>
+VStem: 224 68.3291
 LayerCount: 2
 Fore
 SplineSet

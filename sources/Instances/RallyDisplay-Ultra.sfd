@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1704051534
-ModificationTime: 1732913343
+ModificationTime: 1732987483
 PfmFamily: 81
 TTFWeight: 1000
 TTFWidth: 5
@@ -41,6 +41,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'ZAM '
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 31" { "'case' Case-Sensitive Forms lookup 31-1" ("case") } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss17' Style Set 17 lookup 29" { "'ss17' Style Set 17 lookup 29-1" ("ss17") } ['ss17' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss18' Style Set 18 lookup 30" { "'ss18' Style Set 18 lookup 30-1" ("ss18") } ['ss18' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'subs' Subscript lookup 0" { "'subs' Subscript lookup 0 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > ) ]
@@ -2533,6 +2534,7 @@ SplineSet
  818.250976562 -84.2255859375 708.095703125 -159.7265625 482.713867188 -159.7265625 c 0
 EndSplineSet
 Validated: 524293
+Substitution2: "'case' Case-Sensitive Forms lookup 31-1" at.case
 EndChar
 
 StartChar: percent
